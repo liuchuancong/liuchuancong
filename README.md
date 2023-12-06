@@ -16,7 +16,7 @@ I am a front-end developer, mainly responsible for the website's page interactio
 
 
 ## Rapidfire  
-<table><tr><td valign="top" width="50%">
+<table ><tr><td valign="top" width="50%" style="border:none">
 
 - 🔭 I’m currently working on [Github Profilinator](https://github.com/liuchuancong/pure_live)  
   
@@ -30,11 +30,9 @@ I am a front-end developer, mainly responsible for the website's page interactio
 - ⚡ Fun fact: I've stayed single.  
 
 
-</td><td valign="top" width="50%">
-
-
-
-</td></tr></table>  
+</td>
+</tr>
+</table>  
 
 <br/>  
 
@@ -93,10 +91,6 @@ I am a front-end developer, mainly responsible for the website's page interactio
 
 ![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
   
-
-<br/>  
-
-<img src="https://github.com/liuchuancong/pure_live/blob/master/assets/images/wechat.png" align="left" height="260" width="260" />  
 
 <br />
 
