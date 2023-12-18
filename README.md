@@ -27,8 +27,6 @@ I am a front-end developer, mainly responsible for the website's page interactio
 - ❓ Ask me about anything related to Flutter and related technologies  
   
 
-- ⚡ Fun fact: I've stayed single.  
-
 
 </td>
 </tr>
