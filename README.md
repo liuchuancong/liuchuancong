@@ -3,7 +3,7 @@
 
 # 👋 你好
 
-![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=print('Hellow+world!'))
+![](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=print('Hellow+Feature!'))
 
       
 
